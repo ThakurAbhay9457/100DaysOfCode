@@ -3,9 +3,6 @@
 Welcome to my **100 Days of Code** journey! 🚀  
 I’ve committed to the challenge of coding for at least one hour every day for the next 100 days.
 
-## 📅 Start Date
-
-
 ---
 
 ## 📖 Rules
